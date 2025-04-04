@@ -1,5 +1,5 @@
 # Phish_OBF
-A phishing page setup helper, for obfuscated rendering, for overall browser anti-detection
+A phishing page setup helper, for obfuscated rendering, for overall browser anti-detection, so you can simply, clone any site login page, chrome won't detect
 
 Tool for educational purposes, it is basic obfuscation for rendering via base64.
 UTF-8 support I'll add up a bit later (url-encode then b64-enc, so all chars will be supported).
